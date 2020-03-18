@@ -1,6 +1,6 @@
 # CE888 Labs (David Albuja)
 
-This repository contains the 9 labs from the CE888 module. The followins are:
+This repository contains the 9 labs from the CE888 module. The followings are:
 
 * Lab 1: Introduction to Numerical Computing with Numpy and Matplotlib
 * Lab 2: The Bootstrap
