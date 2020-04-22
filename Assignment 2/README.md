@@ -7,3 +7,5 @@ This folder contains the followings files for assignmnet 2:
 
 * Main_Code_Assigment_2.ipynb: The complete code for computing the expert iterations
 * Training the classifier_Assignment 2.ipynb: The file has the code that shows the different test computed for three classifers (random forest, extra trees and decision tree) to choose the best one for the main code.
+* example_dataset_assigment2.csv: An example of how the dataset using in the code looks like.
+
